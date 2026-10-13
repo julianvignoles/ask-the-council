@@ -6,7 +6,7 @@ an assistant for a take and getting back five paragraphs of agreeable hedging.
 
 ## Download & install (2 steps, no terminal needed)
 
-**1. Download the file:** **[⬇ ask-the-council.skill](https://github.com/julianvignoles-art/ask-the-council/releases/latest/download/ask-the-council.skill)**
+**1. Download the file:** **[⬇ ask-the-council.skill](https://github.com/julianvignoles/ask-the-council/releases/latest/download/ask-the-council.skill)**
 (this link always points at the newest release)
 
 **2. Upload it to Claude:** go to [claude.ai](https://claude.ai), open **Settings → Capabilities**
